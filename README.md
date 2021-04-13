@@ -1,0 +1,3 @@
+- 👋 Hola, soy @AimarIbarra, un estudiante español que quiere aprender a progamar por su cuenta
+- 👀 Estoy interesado en html, javascript, css, y c++. Y de paso... espero que esta recopilación de mis avances sirva como recurso para encontrar trabajo
+- 📫 Si quieres contactarme manda un mensaje a greenerclay@gmail.com
